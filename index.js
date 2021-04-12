@@ -13,7 +13,7 @@ function writeCards(x,y){
  
  writeCards(writeCard,"surprise");
 
- function countDown(x){
+/* function countDown(x){
    let count = x;
    while (count>=0){
      console.log(`${count}`);
@@ -23,7 +23,7 @@ function writeCards(x,y){
      count--;
      
    }
- }
+ }*/
 // countDown(4);
 // countDown(10);
  
