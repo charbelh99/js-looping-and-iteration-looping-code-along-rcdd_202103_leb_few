@@ -24,6 +24,18 @@ function writeCards(x,y){
      
    }
  }*/
+ function countDown(num){
+  if (num >= 0){
+    while (num >= 0){
+      console.log(num);
+      num--;
+    }
+  }
+  else{
+    console.log("Please enter a positive integer!")
+  }
+}
+
 // countDown(4);
 // countDown(10);
  
