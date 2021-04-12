@@ -24,7 +24,7 @@ function writeCards(x,y){
      
    }
  }
- countDown(4);
- countDown(10);
+// countDown(4);
+// countDown(10);
  
  
